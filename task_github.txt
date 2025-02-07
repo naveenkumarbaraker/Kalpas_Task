@@ -1,1 +1,11 @@
-First line by Abhishek
+Overview
+This document outlines the process for inserting 1,000 dummy records into each table in the tracker_intern database.
+
+The SQL file contains the following tables:
+add_to_cart, add_to_favourites, clicks, conversions, events, feature_products, header_navigation, proceed_to_checkout, proceed_to_payment, query_feedback, search_bar
+,SequelizeMeta, sessions.
+
+Steps Involved
+1. Identify Table Structure
+2. Generate Dummy Data
+3. Insert into Database Schema
